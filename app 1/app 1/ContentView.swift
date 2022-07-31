@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-
 struct ContentView: View {
     var body: some View {
         ZStack{
@@ -16,7 +15,6 @@ struct ContentView: View {
                 Text("hello my name is Alya")
                     .padding()
                 Text("im 15 years old")
-                
                 Text("im learning swiftUI")
                 
                 HStack {
@@ -25,9 +23,6 @@ struct ContentView: View {
                     Spacer()
                     Text("😂")
                 }
-                
-                
-                
                 
             }
     }
